@@ -5,9 +5,9 @@ To analyze and visualize a company's sales data to understand trends, top produc
 ## Dataset Used:
 File Name: sales_data_sample.csv
 Columns Included (as per assumption and preprocessing steps):
-Date
-Product
-Units Sold
-Unit Price
-Region
-Category
+  - Date
+  - Product
+  - Units Sold
+  - Unit Price
+  - Region
+  - Category
